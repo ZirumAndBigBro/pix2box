@@ -11,3 +11,7 @@ for integration in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
 3. copy coordinates from result.txt and put it in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
 
 Result see Example_pix2box.jpg
+
+and Youtube
+
+https://youtu.be/7Y24vIwrLIQ
